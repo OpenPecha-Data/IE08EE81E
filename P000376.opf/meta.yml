@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD90005
   title: སྡེ་རོང་རྫོང་གི་ལོ་རྒྱུས་དེབ་ཐེར།
-  volume: ''
+  volume:
+    3e47a6c2ffb64242a6500f363ab2a33a:
+      image_group_id: I1PD90055
+      title: Volume 1 of de rong xian zhi
+      volume_number: 1
+      total_pages: 536
   author: ''
+ebook_metadata:
+  title: སྡེ་རོང་རྫོང་གི་ལོ་རྒྱུས་དེབ་ཐེར།
+  author: ''
+  sku: P000376
+  cover: cover.jpg
+  layers:
+  - pagination
